@@ -1,0 +1,12 @@
+
+J
+java:S1066"/Merge this if statement with the enclosing one.(ÌçŠÍıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åğşƒûÿÿÿÿ
+T
+java:S4973"9Use the "equals" method if value comparison was intended.(ÇÒÍüÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(áçòÆúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ĞÒô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶âåŸşÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ËõÇ×
